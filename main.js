@@ -6,7 +6,7 @@ console.log('js connected');
 
   const customizeTitle = () => {
     title.style.color = 'orange';
-  })
+  }
 customizeTitle();
 
 });
