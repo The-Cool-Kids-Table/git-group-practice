@@ -1,0 +1,15 @@
+body{
+  margin: 0 auto;
+  background-image: url('thanksgiving.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h1 {
+  text-align: center;
+  color:white;
+  font-size: 75px;
+  text-shadow: 2px 2px gray;
+
+}
