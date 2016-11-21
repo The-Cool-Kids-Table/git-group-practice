@@ -8,7 +8,7 @@ body{
   background-image: url('thanksgiving.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-
+  font-family: helvetica;
 }
 
 .header {
