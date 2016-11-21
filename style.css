@@ -48,6 +48,6 @@ body{
   font-size: 20px;
 }
 
-h1:hover{
-    background-color: magenta;
+h1:hover {
+  color: darkorange;
 }
